@@ -31,7 +31,6 @@ This repository showcases a complete machine learning workflow, from data ingest
 ### 4. Feature Importance & Explainability
 - `.feature_importances_` and Permutation Importance
 - SHAP values for interpretability
-- Feature contribution analysis for individual predictions
 - Synergy analysis between top features across methods
 
 ### 5. Dimensionality Reduction
